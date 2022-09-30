@@ -6,7 +6,6 @@ namespace SimpleUnityObserver
     public class SimpleObserverWindow : EditorWindow
     {
         private readonly Color COLOR_RED = new Color(212 / 255f, 43f / 255f, 14f / 255f, 1f);
-        private readonly Color COLOR_GREEN = new Color(212 / 255f, 43f / 255f, 14f / 255f, 1f);
 
         private GUIStyle GetLabelStyle(Color color)
         {
