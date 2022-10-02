@@ -19,7 +19,6 @@ namespace SimpleUnityObserver
                 fontStyle = FontStyle.Bold,
                 alignment = TextAnchor.MiddleCenter,
             };
-
         }
 
         [MenuItem("MD/SimpleObserver")]
