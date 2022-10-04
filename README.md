@@ -2,8 +2,9 @@
 An editor tool that allows you to easily test your methods.
 
 # Usage
-Add your methods with `SimpleObserver` class as you see at example code.  
-Open Observer panel from `MD/SimpleObserver` under editor toolmenu. and the methods will appear at runtime.  
+Add your methods with `SimpleObserver` class as you see in the example code.  
+Open Observer panel from `MD/Simple Observer` under editor tool menu. The methods will appear at runtime.  
+
 |Editor Time|Run Time|
 |----|---|
 |<img src="/.github/screenshots/SOeditorTime.png">|<img src="/.github/screenshots/SORunTime.png">|
